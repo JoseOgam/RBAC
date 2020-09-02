@@ -1,0 +1,19 @@
+{
+  "name": "rbac",
+  "version": "1.0.0",
+  "description": "role-based access control application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseOgam/RBAC.git"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseOgam/RBAC/issues"
+  },
+  "homepage": "https://github.com/JoseOgam/RBAC#readme"
+}
